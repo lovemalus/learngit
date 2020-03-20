@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Learn how use git rest.
 Creating a new branch is quick.
+Creating a new branch is quick & simple.
